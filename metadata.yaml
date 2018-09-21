@@ -1,0 +1,42 @@
+_repo: Through-the-Sikh-War-A-Tale-of-the-Conquest-of-the-Punjaub_53717
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hurst, Hal
+    birthdate: 1865
+    deathdate: 1938
+    gutenberg_agent_id: '9885'
+    url: http://www.gutenberg.org/2009/agents/9885
+creator:
+  author:
+    agent_name: Henty, G. A. (George Alfred)
+    alias: Henty, George Alfred
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '1032'
+    url: http://www.gutenberg.org/2009/agents/1032
+    wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
+description: ''
+gutenberg_issued: '2017-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53717'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- History -- 19th century -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Sikh War, 1848-1849 -- Juvenile fiction'
+- !lcsh 'Punjab (India) -- Juvenile fiction'
+- !lcsh 'Massacres -- Juvenile fiction'
+- !lcsh 'Soldiers -- Juvenile fiction'
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- GITenberg
+title: 'Through the Sikh War: A Tale of the Conquest of the Punjaub'
+url: http://www.gutenberg.org/ebooks/53717
